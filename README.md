@@ -1,2 +1,7 @@
 # CGT-Project
-Build a 3D game engine and build a game with it
+Branch trying to fix issue with Shaders
+
+Changelog
+
+Moved From Soil to STB_Image
+GLFW Init added
